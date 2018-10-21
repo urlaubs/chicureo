@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>Stefan Urlaub</title>
+    <title>That Stefan&#x27;s Site</title>
     <link href="http://urlaubs.eu/feed.xml" rel="self" />
     <link href="http://urlaubs.eu" />
-    <updated>2018-10-21T20:41:35+02:00</updated>
+    <updated>2018-10-21T20:57:55+02:00</updated>
     <author>
         <name>Stefan Urlaub</name>
     </author>
