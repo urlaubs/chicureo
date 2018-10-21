@@ -1,6 +1,6 @@
 {
     "version": "https://jsonfeed.org/version/1",
-    "title": "That Stefan&#x27;s Site",
+    "title": "That Urlaub&#x27;s Site",
     "description": "",
     "home_page_url": "http://urlaubs.eu",
     "feed_url": "http://urlaubs.eu/feed.json",
@@ -12,9 +12,9 @@
         {
             "id": "http://urlaubs.eu/digital-marketing-professional-and-travel-enthusiast.html",
             "url": "http://urlaubs.eu/digital-marketing-professional-and-travel-enthusiast.html",
-            "title": "DIGITAL MARKETING PROFESSIONAL AND TRAVEL ENTHUSIAST",
-            "summary": "I provide analysis, solutions, and marketing expertise to successfully sell your products. Im am specialized in customer experience-focused companies, e.g. leisure travel and hospitality, fast moving and luxury consumer goods, outdoor sport brands.",
-            "content_html": "<header class=\"major\">\n<p>I provide analysis, solutions, and marketing expertise to successfully sell your products. Im am specialized in customer experience-focused companies, e.g. leisure travel and hospitality, fast moving and luxury consumer goods, outdoor sport brands.</p>\n</header>",
+            "title": "DIGITAL MARKETING PRO",
+            "summary": "I provide solutions and marketing expertise to successfully sell your products. Currently NOT available.",
+            "content_html": "<header class=\"major\">\n<p>I provide solutions and marketing expertise to successfully sell your products. Currently NOT available.</p>\n</header>",
             "image": "http://urlaubs.eu/media/posts/1/",
             "author": {
                 "name": "Stefan Urlaub"
@@ -22,7 +22,7 @@
             "tags": [
             ],
             "date_published": "2018-10-21T19:45:29+02:00",
-            "date_modified": "2018-10-21T19:45:29+02:00"
+            "date_modified": "2018-10-21T21:06:45+02:00"
         }
     ]
 }

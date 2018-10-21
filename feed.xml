@@ -1,34 +1,34 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
-    <title>That Stefan&#x27;s Site</title>
+    <title>That Urlaub&#x27;s Site</title>
     <link href="http://urlaubs.eu/feed.xml" rel="self" />
     <link href="http://urlaubs.eu" />
-    <updated>2018-10-21T20:57:55+02:00</updated>
+    <updated>2018-10-21T21:08:30+02:00</updated>
     <author>
         <name>Stefan Urlaub</name>
     </author>
     <id>http://urlaubs.eu</id>
 
     <entry>
-        <title>DIGITAL MARKETING PROFESSIONAL AND TRAVEL ENTHUSIAST</title>
+        <title>DIGITAL MARKETING PRO</title>
         <author>
             <name>Stefan Urlaub</name>
         </author>
         <link href="http://urlaubs.eu/digital-marketing-professional-and-travel-enthusiast.html"/>
         <id>http://urlaubs.eu/digital-marketing-professional-and-travel-enthusiast.html</id>
 
-        <updated>2018-10-21T19:45:29+02:00</updated>
+        <updated>2018-10-21T21:06:45+02:00</updated>
             <summary>
                 <![CDATA[
                         <img src="http://urlaubs.eu/media/posts/1/" alt="" />
-                    I provide analysis, solutions, and marketing expertise to successfully sell your products. Im am specialized in customer experience-focused companies, e.g. leisure travel and hospitality, fast moving and luxury consumer goods, outdoor sport brands.
+                    I provide solutions and marketing expertise to successfully sell your products. Currently NOT available.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
                     <img src="http://urlaubs.eu/media/posts/1/" alt="" />
                 <header class="major">
-<p>I provide analysis, solutions, and marketing expertise to successfully sell your products. Im am specialized in customer experience-focused companies, e.g. leisure travel and hospitality, fast moving and luxury consumer goods, outdoor sport brands.</p>
+<p>I provide solutions and marketing expertise to successfully sell your products. Currently NOT available.</p>
 </header>
             ]]>
         </content>
