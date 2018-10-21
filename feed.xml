@@ -1,32 +1,32 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
     <title>Stefan Urlaub</title>
-    <link href="https://urlaubs.github.io/chicureo/feed.xml" rel="self" />
-    <link href="https://urlaubs.github.io/chicureo" />
-    <updated>2018-10-21T20:05:45+02:00</updated>
+    <link href="http://urlaubs.eu/feed.xml" rel="self" />
+    <link href="http://urlaubs.eu" />
+    <updated>2018-10-21T20:41:35+02:00</updated>
     <author>
         <name>Stefan Urlaub</name>
     </author>
-    <id>https://urlaubs.github.io/chicureo</id>
+    <id>http://urlaubs.eu</id>
 
     <entry>
         <title>DIGITAL MARKETING PROFESSIONAL AND TRAVEL ENTHUSIAST</title>
         <author>
             <name>Stefan Urlaub</name>
         </author>
-        <link href="https://urlaubs.github.io/chicureo/digital-marketing-professional-and-travel-enthusiast.html"/>
-        <id>https://urlaubs.github.io/chicureo/digital-marketing-professional-and-travel-enthusiast.html</id>
+        <link href="http://urlaubs.eu/digital-marketing-professional-and-travel-enthusiast.html"/>
+        <id>http://urlaubs.eu/digital-marketing-professional-and-travel-enthusiast.html</id>
 
         <updated>2018-10-21T19:45:29+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="https://urlaubs.github.io/chicureo/media/posts/1/" alt="" />
+                        <img src="http://urlaubs.eu/media/posts/1/" alt="" />
                     I provide analysis, solutions, and marketing expertise to successfully sell your products. Im am specialized in customer experience-focused companies, e.g. leisure travel and hospitality, fast moving and luxury consumer goods, outdoor sport brands.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="https://urlaubs.github.io/chicureo/media/posts/1/" alt="" />
+                    <img src="http://urlaubs.eu/media/posts/1/" alt="" />
                 <header class="major">
 <p>I provide analysis, solutions, and marketing expertise to successfully sell your products. Im am specialized in customer experience-focused companies, e.g. leisure travel and hospitality, fast moving and luxury consumer goods, outdoor sport brands.</p>
 </header>

@@ -2,20 +2,20 @@
     "version": "https://jsonfeed.org/version/1",
     "title": "Stefan Urlaub",
     "description": "",
-    "home_page_url": "https://urlaubs.github.io/chicureo",
-    "feed_url": "https://urlaubs.github.io/chicureo/feed.json",
+    "home_page_url": "http://urlaubs.eu",
+    "feed_url": "http://urlaubs.eu/feed.json",
     "user_comment": "",
     "author": {
         "name": "Stefan Urlaub"
     },
     "items": [
         {
-            "id": "https://urlaubs.github.io/chicureo/digital-marketing-professional-and-travel-enthusiast.html",
-            "url": "https://urlaubs.github.io/chicureo/digital-marketing-professional-and-travel-enthusiast.html",
+            "id": "http://urlaubs.eu/digital-marketing-professional-and-travel-enthusiast.html",
+            "url": "http://urlaubs.eu/digital-marketing-professional-and-travel-enthusiast.html",
             "title": "DIGITAL MARKETING PROFESSIONAL AND TRAVEL ENTHUSIAST",
             "summary": "I provide analysis, solutions, and marketing expertise to successfully sell your products. Im am specialized in customer experience-focused companies, e.g. leisure travel and hospitality, fast moving and luxury consumer goods, outdoor sport brands.",
             "content_html": "<header class=\"major\">\n<p>I provide analysis, solutions, and marketing expertise to successfully sell your products. Im am specialized in customer experience-focused companies, e.g. leisure travel and hospitality, fast moving and luxury consumer goods, outdoor sport brands.</p>\n</header>",
-            "image": "https://urlaubs.github.io/chicureo/media/posts/1/",
+            "image": "http://urlaubs.eu/media/posts/1/",
             "author": {
                 "name": "Stefan Urlaub"
             },
