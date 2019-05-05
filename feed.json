@@ -13,16 +13,15 @@
             "id": "http://urlaubs.eu/digital-marketing-professional-and-travel-enthusiast.html",
             "url": "http://urlaubs.eu/digital-marketing-professional-and-travel-enthusiast.html",
             "title": "DIGITAL MARKETING PRO",
-            "summary": "I provide solutions and marketing expertise to successfully sell your products. Currently NOT available.",
-            "content_html": "<header class=\"major\">\n<p>I provide solutions and marketing expertise to successfully sell your products. Currently NOT available.</p>\n</header>",
-            "image": "http://urlaubs.eu/media/posts/1/",
+            "summary": "I provide solutions and marketing expertise to successfully sell your products. Currently NOT available. Stay Tuned.",
+            "content_html": "<header class=\"major\">\n<p>I provide solutions and marketing expertise to successfully sell your products. Currently NOT available.</p>\n<p> </p>\n<p>Stay Tuned.</p>\n</header>",
             "author": {
                 "name": "Stefan Urlaub"
             },
             "tags": [
             ],
             "date_published": "2018-10-21T19:45:29+02:00",
-            "date_modified": "2018-10-21T21:06:45+02:00"
+            "date_modified": "2019-05-05T17:26:52+02:00"
         }
     ]
 }

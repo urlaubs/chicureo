@@ -3,7 +3,7 @@
     <title>That Urlaub&#x27;s Site</title>
     <link href="http://urlaubs.eu/feed.xml" rel="self" />
     <link href="http://urlaubs.eu" />
-    <updated>2018-10-21T21:09:44+02:00</updated>
+    <updated>2019-05-05T17:26:58+02:00</updated>
     <author>
         <name>Stefan Urlaub</name>
     </author>
@@ -17,18 +17,18 @@
         <link href="http://urlaubs.eu/digital-marketing-professional-and-travel-enthusiast.html"/>
         <id>http://urlaubs.eu/digital-marketing-professional-and-travel-enthusiast.html</id>
 
-        <updated>2018-10-21T21:06:45+02:00</updated>
+        <updated>2019-05-05T17:26:52+02:00</updated>
             <summary>
                 <![CDATA[
-                        <img src="http://urlaubs.eu/media/posts/1/" alt="" />
-                    I provide solutions and marketing expertise to successfully sell your products. Currently NOT available.
+                    I provide solutions and marketing expertise to successfully sell your products. Currently NOT available. Stay Tuned.
                 ]]>
             </summary>
         <content type="html">
             <![CDATA[
-                    <img src="http://urlaubs.eu/media/posts/1/" alt="" />
                 <header class="major">
 <p>I provide solutions and marketing expertise to successfully sell your products. Currently NOT available.</p>
+<p> </p>
+<p>Stay Tuned.</p>
 </header>
             ]]>
         </content>
